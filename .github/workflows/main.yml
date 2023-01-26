@@ -12,3 +12,12 @@ jobs:
     - name: Install dependencies
       run: |
         make install
+    - name: lint
+      run: |
+        make lint
+    - name: test
+      run: |
+        make test
+    - name: format
+      run: |
+        make format
