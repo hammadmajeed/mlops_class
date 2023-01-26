@@ -5,7 +5,7 @@
 
 Create a virtual environment
 
-```python -venv ~/.mlops_class```
+```python -m venv ~/.mlops_class```
 
 Source it
 
