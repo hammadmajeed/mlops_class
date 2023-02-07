@@ -1,5 +1,8 @@
 name: Python application test with Github Actions
-on: [push]
+on: 
+  push:
+    branches-ignore:
+      - 'Student_1/'
 jobs:
   build:
     runs-on: ubuntu-latest
