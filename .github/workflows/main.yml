@@ -1,7 +1,7 @@
 name: Python application test with Github Actions
 on: 
   push:
-    branches: [ main ]
+    branches: [ Student_3 ]
 jobs:
   build:
     runs-on: ubuntu-latest
