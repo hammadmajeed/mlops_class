@@ -1,4 +1,4 @@
-black
+black11
 pylint
 pytest
 pytest-cov
