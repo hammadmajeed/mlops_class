@@ -1,4 +1,4 @@
-[![Python application test with Github Actions](https://github.com/hammadmajeed/mlops_class/actions/workflows/main.yml/badge.svg)](https://github.com/hammadmajeed/mlops_class/actions/workflows/main.yml)
+[![Python application test with Github Actions](https://github.com/hammadmajeed/mlops_class/actions/workflows/main.yml/badge.svg?event=push)](https://github.com/hammadmajeed/mlops_class/actions/workflows/main.yml)
 
 # mlops_class
 ## Steps required to run this demo
